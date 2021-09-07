@@ -1,0 +1,9 @@
+{
+  "qmgrHostName": "localhost",
+  "qmgrPort": 1414,
+  "qmgrName": "QM1",
+  "qmgrChannelName": "DEV.APP.SVRCONN1",
+  "username": "ADMIN",
+  "password": "xoriant123#",
+  "queueName": "DEV.QUEUE.1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/MQTest/MQProdCons/Test/jar/bcpkix-jdk15on-1.66.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/MQTest/MQProdCons/Test/jar/bcprov-jdk15on-1.66.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/MQTest/MQProdCons/Test/jar/com.ibm.mq.allclient-9.2.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/MQTest/MQProdCons/Test/jar/javax.jms-api-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/MQTest/MQProdCons/Test/jar/json-20080701.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/MQTest/MQProdCons/Test/jar/gson-2.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
